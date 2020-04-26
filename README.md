@@ -12,7 +12,7 @@ Install the dependencies.
 npm install
 ```
 
-## dev build 
+## Dev build 
 ```bash
 npm run jswrap
 npm run dev
