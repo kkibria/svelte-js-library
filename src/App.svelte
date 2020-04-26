@@ -1,6 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-	import test from "./gen-b-test.js"
+	import test from "./gen/test.js"
 
 	let name = test.getName();
 	let location = test.getLocation();
